@@ -12,5 +12,5 @@ This site is set up as a personal blog of Wu Lei, who is on the track of being a
 
 Blog articles and project portfolios will be added to this site every now and then, hope you enjoy. If you feel like to talk to me, please reach me via the contacts provided at the footer, where email is preferred. 
 
-Best regards, 
+Best regards,  
 Wu Lei
