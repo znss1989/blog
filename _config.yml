@@ -12,7 +12,7 @@ exclude:
 title: 漱石|吳磊 Read & Code
 subtitle: "半路前端工程師 從來自在讀書人 道人得錢徑沽酒 醉倒自謂吾符神"
 email: znss1989@outlook.com
-name: 吳磊
+name: Wu Lei
 description: >
   This is a site as personal blog of Wu Lei (吳磊), who is always a book worm and now a Web devloper on the way. 
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -48,6 +48,7 @@ ga_tracking_id: "UA-78243724-1"
 
 # Category descriptions (for archive pages)
 descriptions:
+  - cat: article
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
