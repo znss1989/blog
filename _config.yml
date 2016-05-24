@@ -21,8 +21,8 @@ description: >
 baseurl: "/blog/" # the subpath of your site, e.g. /blog/
 url: "http://znss1989.github.io" # the base hostname & protocol for your site
 cover: "assets/snow.jpg"
-logo: "assets/logo.png"
-favicon: "assets/logo.png"
+logo: "assets/logo_wu.png"
+favicon: "assets/favicon-96x96.png"
 
 # Build settings
 markdown: kramdown
